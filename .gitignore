@@ -1,0 +1,13 @@
+# C++ build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# VS Code / editor files
+.vscode/
+
+# Temporary runner files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
